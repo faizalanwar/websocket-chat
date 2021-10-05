@@ -1,0 +1,9 @@
+.git
+node_modules/
+bin/
+obj/
+Workspace.code-workspace
+package-lock.json
+.editorconfig
+*.log
+TODO.md

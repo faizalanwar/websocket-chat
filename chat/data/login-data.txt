@@ -1,0 +1,4 @@
+﻿Id;FullName;User;Password
+1;Faizal Anwar;faizal;1234
+2;Muhammad Haikal Farhan;farhan;1234
+3;Zidan Khoirun Nabil;nabil;1234
